@@ -1,0 +1,1 @@
+add_library(bmi160 SHARED bmi160.c)
